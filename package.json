@@ -1,5 +1,5 @@
 {
-  "name": "mongo-vfs",
+  "name": "cc-mongo-vfs",
   "version": "0.0.1",
   "description": "A MongoDB GridFS implementation of vfs.",
   "author": "10xEngineer.me",
